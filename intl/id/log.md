@@ -1,29 +1,28 @@
 # Catatan - 100 Days Of Code
 
-### Hari ke 0: 10 September 2020 (Contoh 1)
-##### (hapus atau komentar bagian ini, ini hanya contoh)
+### Hari ke 0: 10 September 2020
 
-**Kemajuan Hari Ini:** Memperbaiki CSS, menggunakan canvas secara fungsional pada aplikasi.
+**Kemajuan Hari Ini:** Melakukan terjemahan repository ini ke bahasa indonesia sebesar 70% dan memakan waktu +3 Jam
 
-**Pemikiran:** Saya membutuhkan perjuangan dengan CSS, tapi secara keseluruhan, saya merasa seperti secara perlahan makin baik. Canvas masih tergolong baru untuk saya, tetapi saya berhasil mencari tahu beberapa fungsional dasarnya. 
+**Pemikiran:** saya rasa, semakin sering praktik langsung untuk menerjemahkan sebuah tulisan dari inggris ke indonesia akan menambah vocab saya, sehingga dapa membantu mempercepat propses belajar mengerti bahasa inggris
 
-**Tautan Terkait Proyek:** [Aplikasi Kalkulator](http://www.example.com)
+**Tautan Terkait Proyek:** [#100 DaysOfCode dalam Bahasa Indonesia](ihttps://github.com/dvrg/100-days-of-code/tree/master/intl/id)
 
-### Hari ke 0: 10 September 2020 (Contoh 2)
-##### (hapus atau komentar bagian ini, ini hanya contoh)
+### Hari ke 1: 11 September 2020 
 
-**Kemajuan Hari Ini:** Memperbaiki CSS, menggunakan canvas secara fungsional pada aplikasi.
+**Kemajuan Hari Ini:** Melanjutkan terjemahan hari lalu dan membereskan terjemahanan
 
-**Pikiran:** Saya membutuhkan perjuangan dengan CSS, tapi secara keseluruhan, saya merasa seperti secara perlahan makin baik. Canvas masih tergolong baru untuk saya, tetapi saya berhasil mencari tahu beberapa fungsional dasarnya. 
+**Pikiran:** melakukan PR hasil dari tejemahan ke induk repository, namun hingga saat ini belum diterima 
 
-**Tautan Terkait Proyek:** [Aplikasi Kalkulator](http://www.example.com)
+**Tautan Terkait Proyek:** [#100 DaysOfCode dalam Bahasa Indonesia](ihttps://github.com/dvrg/100-days-of-code/tree/master/intl/id)
 
-### Hari ke 1: Kamis, 10 September
 
-**Kemajuan Hari Ini:** Saya telah menyelesaikan banyak latihan di FreeCodeCamp.
+### Hari ke 3: 12 September 2020 
 
-**Pemikiran:** Saya baru saja memulai coding, dan perasaannya luar biasa ketika akhirnya saya menyelesaikan tantangan algoritma setelah melakukan beberapa kali percobaan dan menghabiskan beberapa jam.
+**Kemajuan hari ini:** 
 
-**Tautan Terkait Proyek:**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Pikiran:** 
+
+**Tautan Terkait Proyek:** 
+
+
